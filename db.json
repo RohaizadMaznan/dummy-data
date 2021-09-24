@@ -57,7 +57,7 @@
    "booking":[
       {
          "bookingId":"bid-80291",
-         "bookingStatus":"Pending",
+         "bookingStatus":"New",
          "bookingCode":"Payment",
          "bookingArea":"Activity",
          "bookingDate":"12:00:00 PM 21 August 2021",
@@ -96,7 +96,7 @@
       },
       {
          "bookingId":"bid-80291",
-         "bookingStatus":"Success",
+         "bookingStatus":"Paid",
          "bookingCode":"Payment",
          "bookingArea":"Accomodation",
          "bookingDate":"12:00:00 PM 21 August 2021",
