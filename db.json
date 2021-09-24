@@ -1,4 +1,24 @@
 {
+   "users":[
+      {
+         "uid":"dnwbbfwinsjndjwei381msk",
+         "firstName":"Rohaizad",
+         "lastName":"Maznan",
+         "email":"rohaizadmaznan@gmail.com",
+         "contactNo":"0197070023",
+         "accountRole": "superadmin",
+         "createdAt":"2021-09-24T05:49:00Z"
+      },
+      {
+         "uid":"ndukwjdnbwbdw23uh21m",
+         "firstName":"Amirul",
+         "lastName":"Shazni",
+         "email":"amirul1996@gmail.com",
+         "contactNo":"0178629918",
+         "accountRole": "vendor",
+         "createdAt":"2021-09-24T05:49:00Z"
+      }
+   ],
    "isles":[
       {
          "id":1,
