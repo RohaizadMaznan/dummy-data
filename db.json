@@ -56,7 +56,7 @@
    ],
    "booking":[
       {
-         "id":"197872",
+         "id":197872,
          "bookingStatus":"New",
          "bookingCode":"Payment",
          "bookingArea":"Activity",
@@ -95,7 +95,7 @@
          ]
       },
       {
-         "id":"197873",
+         "id":197873,
          "bookingStatus":"Paid",
          "bookingCode":"Payment",
          "bookingArea":"Accomodation",
